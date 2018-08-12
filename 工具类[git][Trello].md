@@ -6,9 +6,9 @@
 
 [阮一峰-Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
 
-[Github 官方: Checking out pull requests locally](https://help.github.com/articles/checking-out-pull-requests-locally/)
+[github 官方: Checking out pull requests locally](https://help.github.com/articles/checking-out-pull-requests-locally/)
 
-[Github 官方: Merging a pull request](https://help.github.com/articles/merging-a-pull-request/)
+[github 官方: Merging a pull request](https://help.github.com/articles/merging-a-pull-request/)
 
 ## Trello 
 
